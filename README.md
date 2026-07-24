@@ -1,5 +1,7 @@
 # AI Fleet Simulator: IoT Telematics & Driver Behavior Analytics
 
+![AI Fleet Simulator Live Demo](./demo.png)
+
 ## What This Does
 - Extracts real vehicle telemetry from ETS2
 - Trains ML model to detect driving behavior
