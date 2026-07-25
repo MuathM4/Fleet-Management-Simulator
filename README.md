@@ -23,7 +23,7 @@ Instead of testing with real cars (expensive, slow),
 use this simulator to validate telematics platforms.
 Cost savings: 80-90%. Speed: 10x faster.
 
-## 🎮 Setup & Real-Time Simulation Deployment
+## Setup & Real-Time Simulation Deployment
 
 To run this real-time AI driving guard on your own simulator, follow these configuration steps:
 
@@ -51,14 +51,14 @@ While driving inside the simulator, fire up the detector script in your terminal
 
 Bash
 python scripts/realtime_ai_detector.py
-🖥️ Expected Live Terminal Output
+ Expected Live Terminal Output
 Once connected, the Random Forest model will process your physics frame-by-frame every second, outputting localized driving verdicts dynamically:
 
 Plaintext
-⏳ Loading AI Brain configurations...
-✅ AI Model and Encoder loaded perfectly into memory!
+ Loading AI Brain configurations...
+ AI Model and Encoder loaded perfectly into memory!
 
-🚀 AI-Fleet-Simulator Real-Time Guard Started...
+ AI-Fleet-Simulator Real-Time Started...
 ------------------------------------------------------------
 🟢 [LIVE TELEMETRY] Speed: 83 km/h | AI Security Verdict: Normal
 🟢 [LIVE TELEMETRY] Speed: 94 km/h | AI Security Verdict: ⚠️ Speeding ⚠️
