@@ -61,8 +61,11 @@ Plaintext
  AI-Fleet-Simulator Real-Time Started...
 ------------------------------------------------------------
 🟢 [LIVE TELEMETRY] Speed: 83 km/h | AI Security Verdict: Normal
+
 🟢 [LIVE TELEMETRY] Speed: 94 km/h | AI Security Verdict: ⚠️ Speeding ⚠️
+
 ⏸️ Game Paused. AI Guard is sleeping...
+
 🟢 [LIVE TELEMETRY] Speed: 45 km/h | AI Security Verdict: ⚠️ Harsh Cornering ⚠️
 
 ## Technologies
